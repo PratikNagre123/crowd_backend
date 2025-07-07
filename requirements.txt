@@ -1,0 +1,8 @@
+flask
+flask-cors
+opencv-python-headless
+ultralytics
+numpy
+scikit-learn
+playsound==1.2.2
+gunicorn
